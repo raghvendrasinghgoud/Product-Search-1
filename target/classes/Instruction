@@ -1,0 +1,14 @@
+Advance java assignment-1
+
+//to run application
+Advancejava1>App
+
+//input e.g
+
+-color green -gender m -size l -outputpreference price
+
+		or
+		
+color green gender m size l outputpreference price
+
+//this application searches the tshirts data from csv files inside data folder based on input values 
